@@ -1,0 +1,22 @@
+apiVersion: v1
+entries:
+  service:
+  - apiVersion: v2
+    created: "2021-03-16T22:21:15.081134168Z"
+    description: Helm chart for Services
+    digest: dce0b3aca1a9992b3d31196bc35728049ff0eadd459fa116e85c596ba4420c61
+    home: https://charts.platform.ifico.io
+    icon: https://assets.ifico.io/platform/charts/service.png
+    keywords:
+    - ifico
+    maintainers:
+    - email: admin@ifico.io
+      name: ifico
+    name: service
+    sources:
+    - https://github.com/ifico/ifico-helm-charts/tree/master/service
+    type: application
+    urls:
+    - https://github.com/ifico/ifico-helm-charts/releases/download/service-0.0.3/service-0.0.3.tgz
+    version: 0.0.3
+generated: "2021-03-16T22:21:15.081468768Z"
