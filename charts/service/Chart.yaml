@@ -1,0 +1,16 @@
+apiVersion: v2
+name: service
+description: Helm chart for Services
+version: 0.0.1
+engine: gotpl
+type: application
+sources:
+  - https://github.com/ifico/ifico-helm-charts/tree/master/service
+keywords:
+  - ifico
+annotations: {}
+home: https://charts.platform.ifico.io
+icon: https://assets.ifico.io/platform/charts/service.png
+maintainers:
+- name: ifico
+  email: admin@ifico.io
